@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 My name is Kaung Myat. 
+
+I designed profitable and beautiful websites with the finest user experience and a clean style. I developed progressively and using best practices. My main area of expertise right now is front-end web development with React JS, customized animation, design and back-end with NodeJs, ExpressJS, PassportJs and mongoDb.
+
+- 🔭 I’m currently working on Front-end-web-development with React Js.
+- 🌱 I’m currently learning on backend.
+- 👯 I’m looking to collaborate with other team members.
 
 <!--
 **kaungmyat-gusto/kaungmyat-gusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
