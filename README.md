@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kaung Myat</h1>
-<h3 align="center">A passionate fI designed profitable and beautiful websites with the finest user experience and a clean style. I developed progressively and using best practices. My main area of expertise right now is front-end web development with React JS, customized animation, design and back-end with NodeJs, ExpressJS, PassportJs and mongoDb.rontend developer from India</h3>
+<h3 align="center">I designed profitable and beautiful websites with the finest user experience and a clean style. I developed progressively and using best practices. My main area of expertise right now is front-end web development with React JS, customized animation, design and back-end with NodeJs, ExpressJS, PassportJs and mongoDb.</h3>
 
 - 🔭 I’m currently working on **Frontend-web-development.**
 
